@@ -9,15 +9,14 @@ the code contains 4 section :
 * LOGIT model
 * Decision Tree model
 * KNN model
-each models should run after iterative SIS lasso has been run.
+each models should run after iterative SIS lasso has been run. note that the dataset requires cleanup as there are 'NA' values. in additoin, dummy variables were used to categorical vairables with many class in particular , the variable country.
 
 # Credits
 * Chua Kang Wei
 * Frederic Liew Yong Lun
 * Lee yong jie , Richard
 * Nicholas Alexander
-
-this project was created to fulfil NUS DSA4211 requirement.
+the dataset used was obtained from kaggle :https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
 # Discussion
 the logit model used Youden criterion to mamixise both the sensitivty and specitivity by selecting the best threshold. 
