@@ -15,7 +15,7 @@ each models should run after iterative SIS lasso has been run. note that the dat
 * Chua Kang Wei
 * Frederic Liew Yong Lun
 * Lee yong jie , Richard
-* Nicholas Alexander
+* Nicholas Alexander<br />
 the dataset used was obtained from kaggle :https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
 # Discussion
